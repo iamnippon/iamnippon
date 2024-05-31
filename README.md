@@ -2,8 +2,10 @@
 <h1 align="center">Hi 👋, I'm Nippon Chowdhury</h1><h3 align="center">A passionate Android developer from Bangladesh 🇧🇩</h3><h3 href="https://developer.android.com" align="center" target="_blank" rel="noreferrer">
     <img src="material-android.jpg" alt="android" width="550" height="125"/>
   </h3><p align="center"><br> <img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake" /><br></p><br>
-
-
+<p>
+    <img src="Android Studio - Social.png" alt="android" width="160" height="80"/>
+</p>
+    
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nippon.roy.754) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nipponchy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Iamnippon1) 
 
