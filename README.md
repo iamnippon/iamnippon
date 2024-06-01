@@ -1,9 +1,9 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Nippon Chowdhury</h1><h3 align="center">A passionate Android developer from Bangladesh 🇧🇩</h3><h3 href="https://developer.android.com" align="center" target="_blank" rel="noreferrer">
-    <img src="material-android.jpg" alt="android" width="550" height="125"/>
+    <img src="material-android.jpg" alt="android" />
   </h3><p align="center"><br> <img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake" /><br></p><br>
 <p>
-    <img src="Android Studio - Social.png" alt="android"/>
+    <img src="Android Studio - Social.png" alt="android"  width="160" height="80"/>
 </p>
     
 ## 🌐 Socials:
