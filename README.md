@@ -3,7 +3,7 @@
     <img src="material-android.jpg" alt="android" width="550" height="125"/>
   </h3><p align="center"><br> <img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake" /><br></p><br>
 <p>
-    <img src="Android Studio - Social.png" alt="android" width="160" height="80"/>
+    <img src="Android Studio - Social.png" alt="android"/>
 </p>
     
 ## 🌐 Socials:
