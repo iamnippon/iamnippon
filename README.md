@@ -129,26 +129,7 @@ life_philosophy: "Code defines the rules. AI explores beyond them."
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 ACHIEVEMENTS SECTION                                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/section-trophy.svg" width="200"/>
-
-<br/><br/>
-
-<div align="center">
-  
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=red1-for-hek&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
-  </a>
-  
-</div>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%"/>
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
